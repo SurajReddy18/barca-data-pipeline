@@ -1,0 +1,9 @@
+# Data never goes into Git - it's big and can always be re-ingested
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
